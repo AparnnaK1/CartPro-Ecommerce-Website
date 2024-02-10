@@ -1,0 +1,46 @@
+.mb-4
+{
+    border:5px solid whitesmoke;
+    box-shadow: 10px;
+    width:800px;
+    height:600px;
+    margin-left: 380px;
+    padding:100px;
+    margin-top: 60px;
+ 
+}
+.row
+{
+    justify-content: center;
+    
+    
+}
+.main
+{
+    background-image: url('https://trbahadurpur.com/wp-content/uploads/2021/01/background-11.jpg');
+    background-size: cover;
+    height: 1000px;
+    text-align: center;
+    display: flex;
+    
+}  
+h2{
+    color: brown;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.c1
+{
+    color:blueviolet;
+    
+}
+.c2
+{
+    color:blueviolet;
+}
+.h2{
+    color:blueviolet;
+    font-weight: 1px;
+    font-style: oblique;
+    font-palette:initial;
+    margin-left: 600px;
+}

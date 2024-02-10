@@ -1,0 +1,43 @@
+.img{
+    height:500px;
+    width:800px;
+    margin-left: 80px;
+    margin-top: 50px;
+    
+}
+h1
+{
+    text-align: center;
+    color:rgb(92, 18, 145);
+    font-weight: 800px;
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ .main
+{
+    /* background-image: url('https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/image/rDtN98Qoishumwih/paper-texture_zJ-jwPc__thumb.jpg'); */
+    background-image: url('https://trbahadurpur.com/wp-content/uploads/2021/01/background-11.jpg');
+    background-size: cover;
+    height: 1000px;
+    text-align: center;
+    
+}  
+.head
+{
+    color: rgb(92, 18, 145);
+    font-style:normal;
+    font-weight:5000;
+}
+.h2
+{
+    color:antiquewhite;
+    font-weight: 1px;
+    font-style: oblique;
+    font-palette:initial;
+    margin-left: 600px;
+    
+    
+   
+   
+
+}
